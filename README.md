@@ -44,6 +44,7 @@ Problem: Find the maximum number of fruits that can be collected from a contiguo
 | Problem | Time Complexity | Space Complexity |
 |---|---|---|
 | Minimum Size Subarray Sum | `O(n)` | `O(1)` |
-| Longest Subarray with Sum K | `O(n)` average | `O(n)` |
+| Longest Subarray with Sum K | `O(n)`
+| `O(n)` |
 | Fruit Into Baskets | `O(n)` | `O(1)` |
 
