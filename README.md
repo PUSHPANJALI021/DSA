@@ -10,9 +10,9 @@ Day 13 | DSA Practice
 2. Find All Anagrams in a String — LeetCode 438
 - Goal: Find starting indices of all anagrams of p in s.
 - Approach: Use a fixed-size sliding window and compare character frequencies.
-- Time: O(n) | Space: O(1)*
+- Time: O(n) | Space: O(1)
   
 3. Permutation in String — LeetCode 567
 - Goal: Check if s2 contains a permutation of s1.
 - Approach: Maintain a fixed-size window and update character frequencies.
-- Time: O(n) | Space: O(1)*
+- Time: O(n) | Space: O(1)
